@@ -1,0 +1,16 @@
+PODS:
+  - PrintChinese (0.1.0)
+
+DEPENDENCIES:
+  - PrintChinese (from `../`)
+
+EXTERNAL SOURCES:
+  PrintChinese:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PrintChinese: 31ce80296a79c550da9c3d2b8ae682736fc76585
+
+PODFILE CHECKSUM: 7022f0cdfe2024f05a7655411c4e4da7e39769c0
+
+COCOAPODS: 1.5.3

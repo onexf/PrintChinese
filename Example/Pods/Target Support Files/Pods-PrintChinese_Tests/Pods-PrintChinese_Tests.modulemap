@@ -1,0 +1,6 @@
+framework module Pods_PrintChinese_Tests {
+  umbrella header "Pods-PrintChinese_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
