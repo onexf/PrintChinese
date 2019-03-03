@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'PrintChinese_Example' do
+  pod 'PrintChinese', :path => '../'
+
+  target 'PrintChinese_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
